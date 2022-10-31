@@ -1,0 +1,39 @@
+{
+  "name": "@beingrahulvyas/react-native-accordion",
+  "version": "1.0.1",
+  "description": "Animated accordion for React Native.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react-native",
+    "react-native-accordion",
+    "accordion",
+    "react",
+    "react-component",
+    "android",
+    "ios",
+    "react native animated accordion",
+    "@beingrahulvyas/react-native-accordion"
+  ],
+  "author": {
+    "name": "Rahul Kumar Vyas",
+    "email": "rahul.vyas1996@yahoo.in"
+  },
+  "license": "MIT",
+  "peerDependencies": {
+    "react": ">=16.9.0",
+    "react-native": "^=0.61.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.12.9",
+    "@babel/runtime": "^7.12.5",
+    "@react-native-community/eslint-config": "^2.0.0",
+    "babel-jest": "^26.6.3",
+    "eslint": "^7.32.0",
+    "jest": "^26.6.3",
+    "metro-react-native-babel-preset": "0.72.3",
+    "react-test-renderer": "18.1.0"
+  }
+}
