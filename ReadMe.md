@@ -15,7 +15,7 @@ npm install @beingrahulvyas/react-native-accordion
 | header         | A function that should return a component. It represets the header of accordion. |
 | body           | A function that should return a component. It represets the body of accordion.   |
 | containerStyle | styling for main accordion container                                             |
-| onToggle |  |
+| onToggle | A function that return boolean value (expended -> true) |
 
 ## Example
 
